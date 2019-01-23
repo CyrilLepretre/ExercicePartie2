@@ -11,8 +11,8 @@ random.seed(0)
 #################### VOTES SETUP #################
 ##################################################
 
-#VOTES = 100000
-VOTES = 10
+VOTES = 100000
+
 MEDIAN = VOTES/2
 CANDIDATES = {
     "hermione": "Hermione Granger",
