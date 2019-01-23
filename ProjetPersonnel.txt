@@ -1,3 +1,5 @@
 Court terme : devenir développeur Java
 Long terme : devenir développeur Java reconnu dans mon Entreprise, voire participer à des concours de développeur
+
 Prochaines étapes : obtenir des certifications
+	Pré-requis : identifier les certifications existantes sur le marché
