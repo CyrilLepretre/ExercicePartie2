@@ -49,7 +49,7 @@ def create_votes():
 #################### FUNCTIONS ###################
 ##################################################
 
-# Your code goes here
+# Fonction d'affichage des votes
 def print_votes(votesP):
 	print(votesP)
 
