@@ -3,3 +3,7 @@ Long terme : devenir développeur Java reconnu dans mon Entreprise, voire partic
 
 Prochaines étapes : obtenir des certifications
 	Pré-requis : identifier les certifications existantes sur le marché
+	
+A étudier :
+	Piste développeur fullstack à long terme (à discuter avec mon mentor ultérieurement)
+	Mais quoiqu'il arrive, Java dans un premiet temps !!
